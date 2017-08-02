@@ -1,0 +1,24 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "RESTful todoListApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "Tutorial"
+  ],
+  "author": "Robert Saman (original: olatunde garuba)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/powernerd/todoListApi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/powernerd/todoListApi/issues"
+  },
+  "homepage": "https://github.com/powernerd/todoListApi#readme"
+}
