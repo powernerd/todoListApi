@@ -4,7 +4,7 @@
   "description": "RESTful todoListApi",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "standard && tap test/*.js --cov"
   },
   "keywords": [
     "RESTful",
@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/powernerd/todoListApi/issues"
   },
-  "homepage": "https://github.com/powernerd/todoListApi#readme"
+  "homepage": "https://github.com/powernerd/todoListApi#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0",
+    "standard": "^10.0.3",
+    "tap": "^10.7.2"
+  },
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
