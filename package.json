@@ -23,6 +23,7 @@
   "homepage": "https://github.com/powernerd/todoListApi#readme",
   "devDependencies": {
     "nodemon": "^1.11.0",
+    "should": "^11.2.1",
     "standard": "^10.0.3",
     "tap": "^10.7.2"
   },
